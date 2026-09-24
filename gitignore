@@ -1,0 +1,38 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Runtime logs
+logs/
+*.log
+
+# Local database / SQLite runtime files
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.db-shm
+data/*.db-wal
+
+# Generated dashboard data
+dashboard_data/*.csv
+
+# Temporary / backup files
+*.tmp
+*.bak
+~$*
+
+# IDE / editor
+.vscode/
+.idea/
