@@ -1,6 +1,6 @@
 # Global Market Monitor & Data Quality Pipeline
 
-### 📊 [View / Download the Excel Dashboard](./Global_Market_Monitor.xlsx)
+### 📊 [View / Download the Excel Dashboard](./Global_Market_Monitor2.xlsx)
 
 <img width="1428" height="753" alt="Screenshot 2026-09-24 at 18 19 34" src="https://github.com/user-attachments/assets/d7c8c624-921f-432d-b087-12b7a3783650" />
 <img width="1433" height="415" alt="Screenshot 2026-09-24 at 18 37 39" src="https://github.com/user-attachments/assets/9709426b-7e95-4135-9e8f-d83a08a00c5c" />
@@ -11,7 +11,7 @@
 <img width="1294" height="317" alt="Screenshot 2026-09-24 at 18 44 08" src="https://github.com/user-attachments/assets/86e25198-8f1d-41fc-8702-cb22cea5e3f4" />
 
 
-### 📊 [View / Download the Excel Dashboard](./Global_Market_Monitor.xlsx)
+### 📊 [View / Download the Excel Dashboard](./Global_Market_Monitor2.xlsx)
 
 
 > **An end-to-end market data monitoring project built to demonstrate practical Data Analyst skills across data ingestion, validation, automation, SQL/SQLite persistence, incident monitoring, and Excel dashboarding.**
